@@ -1,0 +1,2 @@
+# sc-core
+the core 
